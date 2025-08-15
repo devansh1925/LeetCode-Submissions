@@ -7,6 +7,7 @@ A curated collection of LeetCode problems designed to help you excel in coding i
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0493-reverse-pairs](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -36,4 +37,16 @@ A curated collection of LeetCode problems designed to help you excel in coding i
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
