@@ -49,4 +49,16 @@ A curated collection of LeetCode problems designed to help you excel in coding i
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
