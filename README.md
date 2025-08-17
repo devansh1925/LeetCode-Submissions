@@ -61,4 +61,12 @@ A curated collection of LeetCode problems designed to help you excel in coding i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
