@@ -8,6 +8,7 @@ A curated collection of LeetCode problems designed to help you excel in coding i
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@ A curated collection of LeetCode problems designed to help you excel in coding i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0229-majority-element-ii](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -76,4 +78,12 @@ A curated collection of LeetCode problems designed to help you excel in coding i
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/devansh1925/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
